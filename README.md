@@ -1,8 +1,8 @@
-# Hi, I'm Naman Jain!
+# Hi, I'm Naman Jain! 👋
 
 **Welcome to my GitHub profile!**
 
-I'm a passionate and enthusiastic developer currently pursuing **Bachelor of Computer Applications (BCA)** from **Manipal University Jaipur**. I am in my **4th semester** and constantly exploring new technologies and sharpening my programming skills.
+I'm currently pursuing **BCA (Bachelor of Computer Applications)** from **Manipal University Jaipur**, in my **4th semester**. I'm passionate about coding and always eager to explore new technologies and tools.
 
 ---
 
@@ -14,23 +14,17 @@ I'm a passionate and enthusiastic developer currently pursuing **Bachelor of Com
 - **Web Development:**  
   `HTML`, `CSS`
 
-- **Other Interests:**  
-  Exploring open-source projects, building small games and utilities, improving problem-solving skills.
-
 ---
 
-## 🎮 Projects & Contributions
+## 🐍 GitHub Contribution Snake
 
-- **Snake Game**  
-  I have contributed to and worked on the classic Snake Game, enhancing it with creative logic and interface design. This project helped strengthen my understanding of game loops, rendering, and user input handling.
+![snake gif](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+
+> This fun animation showcases my contribution history as a moving snake! 🐍✨
 
 ---
 
 ## 📫 Let's Connect!
 
-Feel free to check out my repositories and follow my journey as I continue learning and building exciting projects!
-
----
-
-Thanks for stopping by!
-
+Feel free to explore my repositories and follow my journey in tech.  
+Thanks for visiting! 🚀
