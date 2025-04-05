@@ -18,7 +18,7 @@ I'm currently pursuing **BCA (Bachelor of Computer Applications)** from **Manipa
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+
 
 > This fun animation showcases my contribution history as a moving snake! 🐍✨
 
