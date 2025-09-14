@@ -9,7 +9,7 @@ I'm currently pursuing **BCA (Bachelor of Computer Applications)** from **Manipa
 ## 🛠️ Skills
 
 - **Programming Languages:**  
-  `C`, `C++`, `Java`
+  `Python`
 
 - **Web Development:**  
   `HTML`, `CSS`
