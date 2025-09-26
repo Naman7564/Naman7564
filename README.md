@@ -2,7 +2,8 @@
 
 **Welcome to my GitHub profile!**
 
-I'm currently pursuing **BCA (Bachelor of Computer Applications)** from **Manipal University Jaipur**, in my **4th semester**. I'm passionate about coding and always eager to explore new technologies and tools.
+I'm currently pursuing **BCA (Bachelor of Computer Applications)** from **Manipal University Jaipur**, in my **4th semester**.  
+I'm passionate about coding and always eager to explore new technologies and tools.
 
 ---
 
@@ -13,6 +14,12 @@ I'm currently pursuing **BCA (Bachelor of Computer Applications)** from **Manipa
 
 - **Web Development:**  
   `HTML`, `CSS`
+
+- **Database:**  
+  `SQL`
+
+- **Monitoring & Observability Tools:**  
+  `Dynatrace`
 
 ---
 
