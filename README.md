@@ -5,6 +5,10 @@
 I'm currently pursuing **BCA (Bachelor of Computer Applications)** from **Manipal University Jaipur**, in my **4th semester**.  
 I'm passionate about coding and always eager to explore new technologies and tools.
 
+## 🚀 DevOps Intern Journey
+
+As a DevOps intern, I am exploring the foundations of modern software
+
 ---
 
 ## 🛠️ Skills
@@ -23,11 +27,7 @@ I'm passionate about coding and always eager to explore new technologies and too
 
 ---
 
-> This fun animation showcases my contribution history as a moving snake! 🐍✨
-
----
-
 ## 📫 Let's Connect!
 
 Feel free to explore my repositories and follow my journey in tech.  
-Thanks for visiting! 🚀
+Thanks for visiting! 😇
