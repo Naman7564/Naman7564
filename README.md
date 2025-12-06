@@ -1,18 +1,10 @@
-<!-- ############  PROFILE HEADER ############ -->
-
 <div align="center">
   
   # 👋 Hi, I'm <strong>Naman Jain</strong>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=550&lines=DevOps+Engineer+Intern;BCA+Student+%7C+Manipal+University+Jaipur;Loves+Linux%2C+Automation+and+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+Manipal+University+Jaipur;DevOps+Engineer+Intern;Linux+Enthusiast+%7C+Automation+Lover" alt="Typing SVG" />
   
   <br/>
-
-  <!-- Badges -->
-  <img src="https://komarev.com/ghpvc/?username=Naman7564&label=Profile+Views&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Naman7564?tab=followers">
-    <img src="https://img.shields.io/github/followers/Naman7564?style=for-the-badge" alt="GitHub followers" />
-  </a>
 
 </div>
 
