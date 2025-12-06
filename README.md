@@ -30,4 +30,10 @@ As a DevOps intern, I am exploring the foundations of modern software
 ## 📫 Let's Connect!
 
 Feel free to explore my repositories and follow my journey in tech.  
-Thanks for visiting! 😇
+Thanks for visiting! 😇  
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/Naman7564/Naman7564/blob/output/github-snake-dark.svg)
