@@ -34,6 +34,14 @@ Thanks for visiting! 😇
 
 ---
 
+## 📊 GitHub Stats
+
+![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naman7564&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Naman7564&theme=dark&hide_border=false)
+
+---
+
 ## 🐍 GitHub Contribution Snake
 
 ![snake gif](https://github.com/Naman7564/Naman7564/blob/output/github-snake-dark.svg)
