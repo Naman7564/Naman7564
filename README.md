@@ -113,9 +113,7 @@
 Feel free to explore my repositories and follow my journey in tech.  
 If you’d like to collaborate, discuss DevOps, or study together, just drop a message on GitHub! 😇  
 
-## 🔗 Connect with Me
-
-<p align="right">
+## 🔗 Connect with Me <p align="right">
   <a href="mailto:naman7564@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" 
          alt="Gmail" width="40" height="40" style="margin: 0 8px;" />
