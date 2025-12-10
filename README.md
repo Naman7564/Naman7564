@@ -113,12 +113,10 @@
 Feel free to explore my repositories and follow my journey in tech.  
 If you’d like to collaborate, discuss DevOps, or study together, just drop a message on GitHub! 😇  
 
-## 🔗 Connect with Me <p align="right">
-  <a href="mailto:naman7564@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" 
-         alt="Gmail" width="40" height="40" style="margin: 0 8px;" />
-  </a>
-</p>
+## 🔗 Connect with Me
+
+<p align="center"><a href="https://www.linkedin.com/in/naman-jain-7a410b253/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:naman7564@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://namanjain.withaspire.in/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
 
 <!--
 You can add your social links here later, for example:
